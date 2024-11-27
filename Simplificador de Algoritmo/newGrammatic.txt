@@ -1,0 +1,3 @@
+S -> aAa | bBv,ava,-
+,A -> a | aA
+,B -> j | Bj
