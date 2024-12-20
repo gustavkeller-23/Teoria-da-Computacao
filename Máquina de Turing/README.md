@@ -1,27 +1,24 @@
 
-# Nome do Projeto
+# Simulador de Máquina de Turing
 
-Descrição curta e objetiva sobre o que seu projeto faz.
+Uma Maquina de Turing que verifica, com base em um automato, se uma determinada entrada gera um resultado esperado.
 
 ## Tabela de Conteúdos
 
 1. [Visão Geral](#visão-geral)
 2. [Funcionalidades](#funcionalidades)
 3. [Instalação](#instalação)
-4. [Uso](#uso)
-5. [Contribuição](#contribuição)
-6. [Licença](#licença)
-7. [Contato](#contato)
+4. [Contribuição](#contribuição)
 
 ## Visão Geral
 
-Descreva brevemente o objetivo do projeto, sua motivação e para quem ele é útil.
+Este projeto visou recriar a máquina de Turing utilizando a Linguagem JavaScript, Java, C e Python. Nesta atividade, utilizamos o conceito de automatos para facilitar a modelagem da máquina.
 
 ## Funcionalidades
 
-- **Funcionalidade 1**: Descrição da funcionalidade.
-- **Funcionalidade 2**: Descrição da funcionalidade.
-- **Funcionalidade 3**: Descrição da funcionalidade.
+- **Funcionalidade 1**: Lê um arquivo JSON e um arquivo de entrada.
+- **Funcionalidade 2**: Utiliza a máquina para interpretar a entrada com base no automato definido pelo JSON.
+- **Funcionalidade 3**: Gera um arquivo de saída com um arquivo que contém as alterações feitas na entrada e se foi aceito ou não.
 
 ## Instalação
 
@@ -33,16 +30,9 @@ git clone https://github.com/seu-usuario/nome-do-projeto.git
 
 # Entre no diretório do projeto
 cd nome-do-projeto
-
-# Instale as dependências
-npm install
 ```
 
-## Uso
-
-# Comando para iniciar o projeto
-npm start
-
+Após isso compile o código com base na linguagem da máquina que foi escolhida.
 
 ## Contribuição
 Se você aceita contribuições, informe como os desenvolvedores podem ajudar a melhorar seu projeto.
@@ -52,12 +42,3 @@ Se você aceita contribuições, informe como os desenvolvedores podem ajudar a 
 3. Faça commit das suas mudanças: git commit -m 'Adiciona nova funcionalidade'
 4. Push para a branch: git push origin minha-nova-funcionalidade
 5. Envie um pull request
-
-
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-## Contato
-
-Nome - Gustav Adolf Lutz Keller
-LinkedIn: [text](https://www.linkedin.com/in/gustav-keller-164674271/)

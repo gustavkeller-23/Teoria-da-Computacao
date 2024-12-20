@@ -6,7 +6,7 @@ turingMachine();
 
 function lerJSON(){
   const fs = require('fs');
-  const info = fs.readFileSync('statesModel.json', 'utf8');
+  const info = fs.readFileSync('../statesModel.json', 'utf8');
   return JSON.parse(info);
 }
 
