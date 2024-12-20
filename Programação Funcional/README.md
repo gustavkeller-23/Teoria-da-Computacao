@@ -18,7 +18,7 @@ Importante nos atentarmos aos objetivos que teremos nesse mercado.
 ## Funcionalidades
 
 - **Funcionalidade 1**: Teremos uma função map para ajustar os preços por conta da inflação, que deduziremos que foi de 9% no ano.
-- **Funcionalidade 2**: Teremos também que filtrar para o mercado por preço, onde ele quer dividir em 4 etapas, 1 - Kilo com preço menor de 50 reais, 2 - Kilo com preço maior de 50 reais, 3 - Unidade com preço menor de 50 reais, 4 - Unidade com preço maior de 50 reais.
+- **Funcionalidade 2**: Teremos também que filtrar para o mercado por preço, onde ele quer dividir em 4 partes, 1 - Kilo com preço menor de 50 reais, 2 - Kilo com preço maior de 50 reais, 3 - Unidade com preço menor de 50 reais, 4 - Unidade com preço maior de 50 reais.
 - **Funcionalidade 3**: Queremos descobrir a quantidade de produtos em estoque (somente os de Unidades), além da média de seus preços.
 - **Funcionalidade 4**: Sabendo a média de preço de produto, queremos uma nova tabela com os produtos que possuem valores maiores do que a média.
 
